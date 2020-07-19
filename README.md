@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, welcome to my Git-World!.</h1>
+
+
+<p>I'm Facu, a programming student of the UTN from <img src="https://www.flaticon.com/free-icon/argentina_197573" width="13"/> <b>Buenos Aires, Argentina</b>.
+<h3>Things I code with</h3>
+<p><img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" />
+  
+  <h3>Where to find me:</h3>
+<p><a href="https://github.com/caidevOficial" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/facundo-falcone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <!--
-**caidevOficial/caidevOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mcljs/mcljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
