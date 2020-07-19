@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, welcome to my Git-World!.</h1>
 
 
-<p>I'm Facu, a programming student at the National Technological University [UTN] from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>.
+<p>I'm <b>Facu</b>, a programming student at the <b>National Technological University [UTN]</b> from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>.
 <h3>Things I code with</h3>
 <p><img alt="JavaScripts" src="https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript" /> <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" />
   
