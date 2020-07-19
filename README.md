@@ -3,7 +3,7 @@
 
 <p>I'm Facu, a programming student at the National Technological University [UTN] from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>.
 <h3>Things I code with</h3>
-<p><img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" />
+<p><img alt="JavaScripts" src="https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript" /> <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" />
   
   <h3>Where to find me:</h3>
 <p><a href="https://github.com/caidevOficial" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/facundo-falcone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
