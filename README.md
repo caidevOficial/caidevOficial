@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, welcome to my Git-World!.</h1><br>
-<img src"https://github.com/caidevOficial/Logos/blob/master/facu_falcone_caidev.png" width="30"/></h1>
+<!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, welcome to my Git-World!.</h1><br>-->
+<h1><img src"https://github.com/caidevOficial/Logos/blob/master/facu_falcone_caidev.png" width="30"/></h1>
 
 <p>I'm <b>Facu</b>, a programming student at the <b>National Technological University [UTN]</b> from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>.
 <h3>Things I code with</h3>
