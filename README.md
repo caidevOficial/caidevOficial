@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Facu!</b></h1><br>
-<p>a programming student at the <b>National Technological University [UTN]</b> from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>..
-<img src="https://github.com/caidevOficial/Logos/blob/master/facu_falcone_caidev.png" width="1400"/>
+<p>a programming student at the <b>National Technological University [UTN]</b> from <img src="https://github.com/caidevOficial/Logos/blob/master/argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>..<br>
+  
+<img src="https://github.com/caidevOficial/Logos/blob/master/facu_falcone_caidev.png" width="1300"/>
 
 <!--[![Facu's github stats](https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight)](https://github.com/caidevOficial/tp_laboratorio_1)-->
 <a href="https://github.com/caidevOficial/tp_laboratorio_1">
