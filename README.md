@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a>
 
-  ##<center><h3>Where to find me:</h3>
+  ##Where to find me:
   <table>
         <tbody>
             <tr>
