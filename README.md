@@ -8,17 +8,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a><br><br>
 
-```c
-int startLearning(){
-    int percentLEarning = 25;
-    while(percentLearning<100){
-        printf("i'm still in %02d.\n",percentLearning);
-        percentLearning++;
-    }
-    printf("Always Keep Learning and Coding!");
-    printf("Suscribe to my GitHub!");
-    return 0;
-}
+```python
+def startLearning():
+    percentLearning = 25
+    while(percentLearning<100):
+        print("i'm still in ",percentLearning)
+        percentLearning+=1
+    print("Always Keep Learning and Coding!")
+    print("Suscribe to my GitHub!")
 ```
 
 ## Where to find me:
