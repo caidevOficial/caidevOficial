@@ -33,7 +33,7 @@ def startLearning():
 <!-- Java -->
 |<img align="center" alt="Java" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/java.png/" width="70px" height="70px" />|<b>Java</b>|
 |--------|----------|
-|<a href="https://github.com/caidevOficial/StructureBuilder_forC/releases/tag/1.0.1/">Structure Builder for C|<a href="https://github.com/caidevOficial/StructureBuilder_forC/">Link to Repository|
+|<a href="https://github.com/caidevOficial/StructureBuilder_forC/releases/tag/1.0.11/">Structure Builder for C|<a href="https://github.com/caidevOficial/StructureBuilder_forC/">Link to Repository|
 |<a href="https://github.com/caidevOficial/CUViLo_Java/releases/tag/0.0.1/">Mini CRUD|<a href="https://github.com/caidevOficial/CUViLo_Java/tree/master/CUV_Java_%5BTP_Grupal_1%5D/">Link to Repository|
 
 
