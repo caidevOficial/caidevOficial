@@ -10,6 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a><br><br>
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial)
+
 ```python
 def startLearning():
     percentLearning = 25
@@ -32,6 +34,8 @@ def startLearning():
 |<img align="center" alt="Java" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/java.png/" width="70px" height="70px" />|<b>Java</b>|
 |--------|----------|
 |<a href="https://github.com/caidevOficial/StructureBuilder_forC/releases/tag/1.0.1/">Structure Builder for C|<a href="https://github.com/caidevOficial/StructureBuilder_forC/">Link to Repository|
+|<a href="https://github.com/caidevOficial/CUViLo_Java/releases/tag/0.0.1/">Mini CRUD|<a href="https://github.com/caidevOficial/CUViLo_Java/tree/master/CUV_Java_%5BTP_Grupal_1%5D/">Link to Repository|
+
 
 <!-- Front -->
 |<img align="center" alt="CSS3" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/css3.png" width="70px" height="70px" />|<img align="center" alt="HTML5" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/html5.png" width="60px" height="60px" />|<img align="center" alt="JS" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-js.png" width="70px" height="60px" />|
