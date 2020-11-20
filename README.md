@@ -17,6 +17,14 @@ def startLearning():
     print("Always Keep Learning and Coding!")
     print("Suscribe to my GitHub!")
 ```
+# Some of my proyects:
+<!-- C -->
+|<img align="center" alt="C" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-c.png/" width="70px" height="70px" />|<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/releases/tag/TP4_v3.3/">Basic CRUD - Saint Seiya|<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/tree/master/TP4_FacuFalcone_LinkedList_%5BSaintSeiya_Linux%5D/">Link to Repository|
+|--------|----------|----------|
+||<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/releases/tag/LP2_v1.1.2/">Basic CRUD - Pandemy|<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/tree/master/Laboratorio1.Parcial2_Pandemia/">Link to Repository|
+||<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/releases/tag/LP2_v1.1.2/">Basic CRUD - Bike Race|<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1/tree/master/Laboratorio1.Parcial2_Bicicletas/">Link to Repository|
+||<a href="https://github.com/caidevOficial/CuadraticApp_C/releases/tag/1.1.1/">QuadraticApp|<a href="https://github.com/caidevOficial/CuadraticApp_C/">Link to Repository|
+
 
 ## Where to find me:
  |<img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />|
