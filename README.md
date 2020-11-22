@@ -3,14 +3,13 @@
 <p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
 
 <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
-  
 
-<!--[![Facu's github stats](https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight)](https://github.com/caidevOficial/tp_laboratorio_1)-->
+
 <a href="https://github.com/caidevOficial/tp_laboratorio_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
 </a><br><br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&exclude_repo=caidevoficial&hide=TSQL)](https://github.com/caidevOficial/caidevOficial)
 
 ```python
 def startLearning():
