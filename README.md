@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
 </a><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&hide=html,tsql)](https://github.com/caidevOficial/caidevOficial)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight)](https://github.com/caidevOficial/caidevOficial)
 
 ```python
 def startLearning():
