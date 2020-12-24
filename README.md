@@ -34,6 +34,7 @@ def startLearning():
 |--------|----------|
 |<a href="https://github.com/caidevOficial/StructureBuilder_forC/releases/tag/1.0.11/">Structure Builder for C|<a href="https://github.com/caidevOficial/StructureBuilder_forC/">Link to Repository|
 |<a href="https://github.com/caidevOficial/CUViLo_Java/releases/tag/0.0.1/">Mini CRUD|<a href="https://github.com/caidevOficial/CUViLo_Java/tree/master/CUV_Java_%5BTP_Grupal_1%5D/">Link to Repository|
+|<a href="https://github.com/caidevOficial/IMC_Calculator/releases">BMI Calculator|<a href="https://github.com/caidevOficial/IMC_Calculator">Link to Repository|
 
 
 <!-- Front -->
