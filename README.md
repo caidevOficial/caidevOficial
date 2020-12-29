@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Personales/GitNimation.gif" width="600"/><br>
+<img align="center" src="https://github.com/caidevOficial/Curriculum/blob/main/media/pm/banner.gif" width="600px"/><br>
 </p>
 <h1>🖖<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Facu!</b></h1><br>
 <p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
@@ -60,6 +60,7 @@
  </p>
 
 ## Where to find me: 🌎
+## Check out my [Online CV](https://caidevoficial.github.io/Curriculum/) 💼
 
 | <img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />||
 |:----:|:----:|
