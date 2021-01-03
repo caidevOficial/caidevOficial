@@ -62,7 +62,7 @@
 | <a href="https://github.com/caidevOficial/Java_BMI_Calculator/releases">BMI Calculator|<a href="https://github.com/caidevOficial/Java_BMI_Calculator">Link to Repository|
 
 <!-- Front -->
-| <img align="center" alt="CSS3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="60px" height="60px" /> | <img align="center" alt="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> | <img align="center" alt="JS" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-js.png" width="40px" height="45px" /> |
+| <img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="60px" height="60px" /> | <img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60px" height="60px" /> | <img align="center" alt="JS" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-js.png" width="40px" height="45px" /> |
 |:----:|:----:|:----:|
 | <a href="https://caidevoficial.github.io/https://caidevoficial.github.io/Front_CuadraticApp/">QuadraticApp Web|<a href="https://github.com/caidevOficial/Front_CuadraticApp">Link to Repository||
 | <a href="https://caidevoficial.github.io/Front_TaiWeb/">Pizza Party Web|<a href="https://github.com/caidevOficial/Front_TaiWeb">Link to Repository||
