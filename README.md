@@ -25,13 +25,13 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line.svg" alt="TomCat" width="40" height="40"/> </a> 
+<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/tomcat/tomcat-original.svg" alt="TomCat" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg?raw=true" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/mysql/mysql-original-wordmark.svg?raw=true" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-eclipse.png?raw=true" alt="Eclipse" width="40" height="40" /> </a>
 <a href="https://netbeans.apache.org/download/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> </a>
@@ -41,6 +41,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank"> <img src="https://www.debian.org/Pics/openlogo-50.png" alt="Debian" width="40" height="40" /> </a>
 <a href="https://www.deepin.org/" target="_blank"> <img src="https://caidevoficial.github.io/Curriculum/media/pm/deepin-logo.svg" alt="Deepin" width="40" height="40" /> </a>
+<a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" /> </a>
 <a href="https://www.microsoft.com/es-ar/windows/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" width="40" height="40" /> </a> 
 </p>
 
