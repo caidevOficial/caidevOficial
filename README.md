@@ -6,14 +6,19 @@
 
 <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
-<p align="center">
+<details>
+  <summary>:zap: GitHub Stats</summary>
   <a href="https://github.com/caidevOficial/caidevOficial">
   <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
 </a><br><br>
-</p>
-<p align="center">
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
 <a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10"/> </a>
-</p>
+</details>
+
+---
 
 <h3 align="left">Technologies used:</h3>
 <p align="left"> 
@@ -35,6 +40,7 @@
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-eclipse.png?raw=true" alt="Eclipse" width="40" height="40" /> </a>
 <a href="https://netbeans.apache.org/download/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visualStudio" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualStudio" width="40" height="40"/> </a>
 <a href="https://slack.com/intl/es-ar/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40" /> </a>
 <a href="https://trello.com/es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" /> </a>
@@ -44,6 +50,8 @@
 <a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" /> </a>
 <a href="https://www.microsoft.com/es-ar/windows/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" width="40" height="40" /> </a> 
 </p>
+
+---
 
 # Some of my proyects: ℹ️
 
@@ -69,6 +77,8 @@
 | <a href="https://caidevoficial.github.io/Front_TaiWeb/">Pizza Party Web|<a href="https://github.com/caidevOficial/Front_TaiWeb">Link to Repository||
  </p>
 
+---
+
 ## Where to find me: 🌎
 ## Check out my [Online CV](https://caidevoficial.github.io/Curriculum/) 💼
 
@@ -78,3 +88,5 @@
 | <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="95px" height="30px" />| <center><a href="https://github.com/caidevOficial/">Github</a></center> |
 |<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="95px" height="30px" />|<a href="https://www.linkedin.com/in/facundo-falcone/">LinkedIn</a>|
 | <img alt='Invitame un café en cafecito.app' srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' width="95px" height="30px" />|<a href="https://cafecito.app/caidevoficial/">CafecitoApp</a>|
+
+---
