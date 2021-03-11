@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/caidevOficial/caidevOficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
 </a><br><br>
 </p>
 <p align="center">
-<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight"/> </a>
+<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10"/> </a>
 </p>
 
 <h3 align="left">Technologies used:</h3>
