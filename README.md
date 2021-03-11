@@ -9,13 +9,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <a href="https://github.com/caidevOficial/caidevOficial">
-  <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true&include_all_commits=true" />
 </a><br><br>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10&count_private=true"/> </a>
+<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Front_CuadraticApp,Front_TaiWeb&hide=html"/> </a>
 </details>
 
 ---
