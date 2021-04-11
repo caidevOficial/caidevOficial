@@ -15,7 +15,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Front_CuadraticApp,Front_TaiWeb,Java_Lineage2_aCis_From_345&hide=html"/> </a>
+<a href="https://github.com/caidevOficial/caidevOficial"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css"/> </a>
 </details>
 
 ---
