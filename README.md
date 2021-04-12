@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caidevoficial&label=Profile%20views&color=0e75b6&style=flat" alt="caidevoficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caidevoficial" alt="caidevoficial" /></a> </p>
+<p align="right"> <a href="https://github.com/CaidevOficial"><img src="https://github-profile-trophy.vercel.app/?username=caidevoficial&theme=nord&column=7" alt="caidevoficial" /></a> </p>
 
 - 🌱 I’m currently learning **C#, Python & Java**
 
@@ -54,11 +54,13 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css" alt="caidevoficial" /></p>
+<p><img align="left" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=10&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css" alt="caidevoficial" width="400px" height="160px"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial" /></p>
+<p><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial" width="400px" height="160px"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidevoficial&" alt="caidevoficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidevoficial&theme=chartreuse-dark" alt="caidevoficial" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=nord)
 
 ## Highlight Projects 🗂️
 
