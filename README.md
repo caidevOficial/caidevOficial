@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/caidevOficial/Curriculum/blob/main/media/pm/pageImgs/banner.gif?raw=true" width="600px"/><br>
+<img align="center" src="https://github.com/caidevOficial/Curriculum/blob/main/media/pm/pageImgs/banner.gif" width="600px"/><br>
 </p>
 <h1 align="center">Hi 👋, I'm Facu!</h1>
 <h3 align="center">Python & Java Developer</h3>
@@ -16,12 +16,12 @@
 - ### Check out my [Online Resume](https://caidevoficial.github.io/Curriculum/) 💼
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 🌎</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundo-falcone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="facundo-falcone" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: ⚙️</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -60,7 +60,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidevoficial&" alt="caidevoficial" /></p>
 
-## 🗂️ Highlight Projects
+## Highlight Projects 🗂️
 
 <details>
     <summary>:zap: Python</summary>
