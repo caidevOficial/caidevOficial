@@ -131,7 +131,7 @@
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_UTN_LaboII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_UTN_LaboII" />
                 </a>
                 <a href="https://github.com/CaidevOficial/CSharp_StructureBuilder">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_UTN_LaboII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_StructureBuilder" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_StructureBuilder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_StructureBuilder" />
                 </a>
             </td>
         </tr>
