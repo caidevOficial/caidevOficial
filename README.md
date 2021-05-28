@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/caidevOficial/Curriculum/blob/main/media/pm/pageImgs/banner.gif" width="600px"/><br>
+<img align="center" src="https://github.com/caidevOficial/Resume/blob/main/media/pm/pageImgs/banner.gif" width="600px"/><br>
 </p>
 <h1 align="center">Hi 👋, I'm Facu!</h1>
 <h3 align="center">Python & Java Developer</h3>
@@ -42,7 +42,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/tomcat/tomcat-original.svg?raw=true" alt="TomCat" width="40" height="40"/> </a> 
+<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://github.com/caidevOficial/Resume/blob/main/media/icons/tomcat/tomcat-original.svg?raw=true" alt="TomCat" width="40" height="40"/> </a> 
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-eclipse.png?raw=true" alt="Eclipse" width="40" height="40" /> </a>
 <a href="https://netbeans.apache.org/download/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg?raw=true" alt="Netbeans" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg?raw=true" alt="PyCharm" width="40" height="40"/> </a>
@@ -55,8 +55,8 @@
 <a href="https://trello.com/es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg?raw=true" alt="Trello" width="40" height="40" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank"> <img src="https://www.debian.org/Pics/openlogo-50.png?raw=true" alt="Debian" width="40" height="40" /> </a>
-<a href="https://www.deepin.org/" target="_blank"> <img src="https://caidevoficial.github.io/Curriculum/media/pm/deepin-logo.svg?raw=true" alt="Deepin" width="40" height="40" /> </a>
-<a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg?raw=true" alt="Ubuntu" width="40" height="40" /> </a>
+<a href="https://www.deepin.org/" target="_blank"> <img src="https://caidevoficial.github.io/Resume/media/pm/deepin-logo.svg?raw=true" alt="Deepin" width="40" height="40" /> </a>
+<a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Resume/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg?raw=true" alt="Ubuntu" width="40" height="40" /> </a>
 <a href="https://www.microsoft.com/es-ar/windows/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" width="40" height="40" /> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
