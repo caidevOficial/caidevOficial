@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [-> My Github Profile](https://github.com/CaidevOficial/)
 
-- ### Check out my [Online Resume](https://caidevoficial.github.io/Curriculum/) 💼
+- ### Check out my [Online Resume](https://caidevoficial.github.io/Resume/) 💼
 
 ---
 
