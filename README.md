@@ -82,6 +82,9 @@
     <th><center>Python</center></th>
     <tr>
         <td>
+            <a href="https://github.com/caidevOficial/Python_MockDataGen">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_MockDataGen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_MockDataGen" />
+            </a>
             <a href="https://github.com/CaidevOficial/Python_IEEE_Team14293">
                 <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_IEEE_Team14293&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_IEEE_Team14293" />
             </a>
