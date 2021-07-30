@@ -51,6 +51,7 @@
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads/" target="_blank"> <img src="https://caidevoficial.github.io/Resume/media/icons/mssql/microsoft-sql-server.svg?raw=true" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://slack.com/intl/es-ar/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg?raw=true" alt="Slack" width="40" height="40" /> </a>
 <a href="https://trello.com/es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg?raw=true" alt="Trello" width="40" height="40" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a>
