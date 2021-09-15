@@ -121,6 +121,9 @@
         <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads/" target="_blank">
             <img src="https://caidevoficial.github.io/Resume/media/icons/mssql/microsoft-sql-server.svg?raw=true" alt="mssql" width="40" height="40"/>
         </a> 
+        <a href="https://azure.microsoft.com/en-in/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+        </a> 
         <a href="https://slack.com/intl/es-ar/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg?raw=true" alt="Slack" width="40" height="40" />
         </a>
@@ -141,9 +144,6 @@
         </a>
         <a href="https://www.microsoft.com/es-ar/windows/" target="_blank">
             <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" width="40" height="40" />
-        </a> 
-        <a href="https://azure.microsoft.com/en-in/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
         </a> 
     </p>
 </div>
