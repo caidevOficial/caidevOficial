@@ -173,7 +173,6 @@
 
 ---
 <div align="center">
-    
     <h2>Highlight Projects 🗂️</h2>
 
 <details>
