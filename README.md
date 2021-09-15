@@ -67,16 +67,16 @@
 
 <table align="center">
     <tr>
-        <td>
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=10&exclude_repo=Proyecto_Final&hide=html,css,tsql" alt="caidevoficial" height="120"/>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=8&exclude_repo=Php_UTN_PrograIII&hide=html,css,tsql" alt="caidevoficial" height="180" width="300"/>
         </td>
-        <td>
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial" height="120"/>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial" height="180" width="350"/>
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidevoficial&theme=chartreuse-dark" alt="caidevoficial" width="550"/>
+        <td  align="center" colspan="2">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidevoficial&theme=chartreuse-dark" alt="caidevoficial" width="650"/>
         </td>
     </tr>
     <tr>
