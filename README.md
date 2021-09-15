@@ -68,7 +68,7 @@
 <table align="center">
     <tr>
         <td>
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=10&exclude_repo=Proyecto_Final&hide=html,css" alt="caidevoficial" height="120"/>
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=10&exclude_repo=Proyecto_Final&hide=html,css,tsql" alt="caidevoficial" height="120"/>
         </td>
         <td>
             <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial" height="120"/>
