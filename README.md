@@ -3,8 +3,9 @@
         <img src="https://github.com/caidevOficial/Resume/blob/main/media/pm/pageImgs/banner.gif" width="600px"/><br>
     </p>
     <h1>Hi 👋, I'm Facu!</h1>
-    <h3>Python & Java Developer</h3>
-    <h3>Programming student at the <b>National Technological University [UTN] 👨‍💻</b></h3>
+    <h3>Pisces♓ | Developer 👨🏻‍💻 | Python🐍 | Java☕️ | C#©️ | Dreamer 💖 | Teacher👨🏻‍🏫 | A bit nerd🤓</h3>
+    <h3>Programming student at the <strong>National Technological University [UTN]</strong> 👨‍💻</h3>
+    <h3>Backend programmer at <strong>Accenture</strong> 👨‍💻</h3>
 </div>
 
 ---
@@ -108,6 +109,12 @@
         </a>
         <a href="https://code.visualstudio.com/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg?raw=true" alt="visualStudio" width="40" height="40"/>
+        </a>
+        <a href="https://cloud.google.com/bigquery" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"> 
+        </a>
+        <a href="https://cloud.google.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg?raw=true" alt="GCP" width="40" height="40"> 
         </a>
         <a href="https://mariadb.org/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
