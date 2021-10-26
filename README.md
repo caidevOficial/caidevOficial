@@ -1,10 +1,10 @@
 <div align="center">
     <p>
-        <img src="https://github.com/caidevOficial/Resume/blob/main/media/pm/pageImgs/banner.gif" width="600px"/><br>
+        <img src="https://github.com/caidevOficial/Resume/blob/main/media/pm/pageImgs/banner.gif?raw=true" width="600px"/><br>
     </p>
     <h1>Hi 👋, I'm Facu!</h1>
-    <h3>Pisces♓ | Developer 👨🏻‍💻 | Python🐍 | Java☕️ | C#©️ | Dreamer 💖 | Teacher👨🏻‍🏫 | A bit nerd🤓</h3>
-    <h3>Programming student at the <strong>National Technological University [UTN]</strong> 👨‍💻</h3>
+    <h3>Pisces♓ | Developer 👨🏻‍💻 | Python🐍 | Java☕️ | C#©️ | Dreamer 💖 | Teacher👨🏻‍🏫 | A bit nerd🤓</h3><br>
+    <h3>Programming Student & Assistant Professor at the <strong>National Technological University [UTN]</strong> 👨‍💻</h3>
     <h3>Backend programmer at <strong>Accenture</strong> 👨‍💻</h3>
 </div>
 
@@ -55,9 +55,6 @@
 <div align="center">
     <h3>Languages and Tools: ⚙️</h3>
     <p> 
-        <a href="https://www.java.com" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a> 
         <a href="https://www.python.org" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a> 
@@ -70,8 +67,17 @@
         <a href="https://pandas.pydata.org/" target="_blank"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg?raw=true" alt="Pandas" width="40" height="40" /> 
         </a>
+        <a href="https://numpy.org/" target="_blank"> 
+            <img src="https://camo.githubusercontent.com/7cd376c089555e86512ab802379037849b50ae79ca0334780e93b65c649c74b8/68747470733a2f2f6e756d70792e6f72672f696d616765732f6c6f676f732f6e756d70792e7376673f7261773d74727565" alt="NumPy" width="40" height="40" /> 
+        </a>
+        <a href="https://matplotlib.org/" target="_blank">
+            <img src="https://camo.githubusercontent.com/9f609b65162567643c396ef42e9ccc2f755906847714389cbc1dcd707b234ebb/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f325f636f6d707265737365642e7376673f7261773d74727565" alt="Matplotlib" width="40" height="40" /> 
+        </a>
         <a href="https://www.djangoproject.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+        </a> 
+        <a href="https://www.java.com" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
         </a> 
         <a href="https://www.arduino.cc/" target="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -202,6 +208,9 @@
                 <a href="https://github.com/CaidevOficial/Python_IEEE_Team14293">
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_IEEE_Team14293&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_IEEE_Team14293" />
                 </a>
+                <a href="https://github.com/caidevOficial/Python_ITBA_IEEE/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_ITBA_IEEE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_ITBA_IEEE" />
+                </a>
                 <a href="https://github.com/CaidevOficial/Python_CombinatorialCalculus">
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_CombinatorialCalculus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_CombinatorialCalculus" />
                 </a>
@@ -305,7 +314,12 @@
         <th><center>PHP</center></th>
         <tr>
             <td>
-                <h2>Still Nothing to show, come back later.</h2>
+                <a href="https://github.com/caidevOficial/Php_UTN_PrograIII/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Php_UTN_PrograIII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Php_UTN_PrograIII" />
+                </a>
+                <a href="https://github.com/caidevOficial/Php_UTN_PrograIII_Heroku/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Php_UTN_PrograIII_Heroku&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Php_UTN_PrograIII_Heroku" />
+                </a>
             </td>
         </tr>
     </table>
