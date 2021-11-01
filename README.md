@@ -68,7 +68,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg?raw=true" alt="Pandas" width="40" height="40" /> 
         </a>
         <a href="https://numpy.org/" target="_blank"> 
-            <img src="https://camo.githubusercontent.com/7cd376c089555e86512ab802379037849b50ae79ca0334780e93b65c649c74b8/68747470733a2f2f6e756d70792e6f72672f696d616765732f6c6f676f732f6e756d70792e7376673f7261773d74727565" alt="NumPy" width="40" height="40" /> 
+            <img src="https://caidevoficial.github.io/Resume/media/icons/numpy/numpy_logo.svg?raw=true" alt="NumPy" width="40" height="40" /> 
         </a>
         <a href="https://matplotlib.org/" target="_blank">
             <img src="https://camo.githubusercontent.com/9f609b65162567643c396ef42e9ccc2f755906847714389cbc1dcd707b234ebb/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f325f636f6d707265737365642e7376673f7261773d74727565" alt="Matplotlib" width="40" height="40" /> 
