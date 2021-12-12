@@ -35,7 +35,7 @@
         </li>
         <li>
             <h4>
-                💼 Check out my <a href="https://caidevoficial.github.io/Resume/">[Online Resume]</a>
+                💼 Check out my <a href="https://caidevoficial.github.io/FF_Resume/">[Online Resume]</a>
             </h4>
         </li>
     </ul>
