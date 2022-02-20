@@ -185,7 +185,7 @@
 <table align="center">
     <tr>
         <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=8&exclude_repo=Php_UTN_PrograIII&hide=html,css,tsql" alt="caidevoficial"  height="150em"/>
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=8&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css,tsql" alt="caidevoficial"  height="150em"/>
         </td>
         <td align="center">
             <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial"  height="150em"/>
@@ -215,11 +215,11 @@
             <td>
                 <!-- Repository Cloner -->
                 <a href="https://github.com/caidevOficial/Python_RepositoryCloner">
-                        <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_RepositoryCloner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_RepositoryCloner" height="115em" />
+                        <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_RepositoryCloner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_RepositoryCloner" height="115em" width="400em"/>
                 </a>
                 <!-- Mock Data Generator -->
                 <a href="https://github.com/caidevOficial/Python_MockDataGen">
-                        <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_MockDataGen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_MockDataGen" height="115em" />
+                        <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_MockDataGen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_MockDataGen" height="115em" width="400em"/>
                 </a>
             </td>
         </tr>
@@ -227,11 +227,11 @@
             <td>
                 <!-- Combinatorial Calculus -->
                 <a href="https://github.com/CaidevOficial/Python_CombinatorialCalculus">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_CombinatorialCalculus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_CombinatorialCalculus" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_CombinatorialCalculus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_CombinatorialCalculus" height="115em" width="400em" />
                 </a>
                 <!-- Data Manipulation Udemy -->
                 <a href="https://github.com/CaidevOficial/Python_Udemy_DataManipulation">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_Udemy_DataManipulation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Udemy_DataManipulation" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_Udemy_DataManipulation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Udemy_DataManipulation" height="115em" width="400em"/>
                 </a>
             </td>
         </tr>
@@ -239,11 +239,11 @@
             <td>
                 <!-- ITBA IEEE Practice 1 -->
                 <a href="https://github.com/CaidevOficial/Python_IEEE_Team14293">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_IEEE_Team14293&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_IEEE_Team14293" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_IEEE_Team14293&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_IEEE_Team14293" height="115em" width="400em" />
                 </a>
                 <!-- ITBA IEEE Practice 2 -->
                 <a href="https://github.com/caidevOficial/Python_ITBA_IEEE/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_ITBA_IEEE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_ITBA_IEEE" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_ITBA_IEEE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_ITBA_IEEE" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -251,11 +251,11 @@
             <td>
                 <!-- Polotic Fullstack -->
                 <a href="https://github.com/CaidevOficial/Python_PoloTic_Fullstack">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_PoloTic_Fullstack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_PoloTic_Fullstack" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_PoloTic_Fullstack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_PoloTic_Fullstack" height="115em" width="400em" />
                 </a>
                 <!-- Platzi Practice 1 -->
                 <a href="https://github.com/CaidevOficial/Python_Platzi">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_Platzi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Platzi" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Python_Platzi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Platzi" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -270,11 +270,11 @@
             <td>
                 <!-- Structure Builder -->
                 <a href="https://github.com/CaidevOficial/CSharp_StructureBuilder">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_StructureBuilder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_StructureBuilder" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_StructureBuilder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_StructureBuilder" height="115em" width="400em" />
                 </a>
                 <!-- UTN Labo II -->
                 <a href="https://github.com/CaidevOficial/CSharp_UTN_LaboII">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_UTN_LaboII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_UTN_LaboII" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_UTN_LaboII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_UTN_LaboII" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -282,7 +282,7 @@
             <td>
                 <!-- Account Control -->
                 <a href="https://github.com/caidevOficial/CSharp_AccountControl">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_AccountControl&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_AccountControl" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_AccountControl&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_AccountControl" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -297,11 +297,11 @@
             <td>
                 <!-- Structure Builder -->
                 <a href="https://github.com/CaidevOficial/Java_StructureBuilder_forC">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_StructureBuilder_forC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_StructureBuilder_forC" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_StructureBuilder_forC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_StructureBuilder_forC" height="115em" width="400em" />
                 </a>
                 <!-- Polotic Fullstack -->
                 <a href="https://github.com/CaidevOficial/Java_PoloTic_Fullstack">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_PoloTic_Fullstack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_PoloTic_Fullstack" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_PoloTic_Fullstack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_PoloTic_Fullstack" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -309,11 +309,11 @@
             <td>
                 <!-- BMI Calculator -->
                 <a href="https://github.com/CaidevOficial/Java_BMI_Calculator">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_BMI_Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_BMI_Calculator" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_BMI_Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_BMI_Calculator" height="115em" width="400em" />
                 </a>
                 <!-- CUV Practice -->
                 <a href="https://github.com/CaidevOficial/Java_CUV">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_CUV&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_CUV" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Java_CUV&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Java_CUV" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -328,11 +328,11 @@
             <td>
                 <!-- CuadraticApp -->
                 <a href="https://github.com/caidevOficial/C_CuadraticApp/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CuadraticApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CuadraticApp" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CuadraticApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CuadraticApp" height="115em" width="400em" />
                 </a>
                 <!-- Caishen Linux -->
                 <a href="https://github.com/caidevOficial/C_CaiShen_Lin/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CaiShen_Lin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CaiShen_Lin" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CaiShen_Lin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CaiShen_Lin" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -340,11 +340,11 @@
             <td>
                 <!-- Caishen Windows -->
                 <a href="https://github.com/caidevOficial/C_CaiShen_Win/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CaiShen_Win&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CaiShen_Win" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_CaiShen_Win&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_CaiShen_Win" height="115em" width="400em" />
                 </a>
                 <!-- CRUD Saint Seiya Theme -->
                 <a href="https://github.com/caidevOficial/C_Labo1_Progra1/tree/master/TP4_FacuFalcone_LinkedList_%5BSaintSeiya_Linux%5D/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_Labo1_Progra1&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_Labo1_Progra1" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=C_Labo1_Progra1&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="C_Labo1_Progra1" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -359,11 +359,11 @@
             <td>
                 <!-- Tai Pizza Web -->
                 <a href="https://github.com/caidevOficial/Front_TaiWeb/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_TaiWeb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_TaiWeb" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_TaiWeb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_TaiWeb" height="115em" width="400em" />
                 </a>
                 <!-- CuadraticApp -->
                 <a href="https://github.com/caidevOficial/Front_CuadraticApp/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_CuadraticApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_CuadraticApp" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_CuadraticApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_CuadraticApp" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
@@ -378,7 +378,7 @@
             <td>
                 <!-- UTN Progra III -->
                 <a href="https://github.com/caidevOficial/Php_UTN_PrograIII/">
-                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Php_UTN_PrograIII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Php_UTN_PrograIII" height="115em" />
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Php_UTN_PrograIII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Php_UTN_PrograIII" height="115em" width="400em" />
                 </a>
             </td>
         </tr>
