@@ -433,6 +433,8 @@
 
 ---
 
+![](https://hit.yhype.me/github/profile?user_id=12877139)
+
 ![Snake animation](https://github.com/caidevOficial/caidevOficial/blob/output/github-contribution-grid-snake.svg)
 
 ---
