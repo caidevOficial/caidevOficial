@@ -13,7 +13,6 @@
         <strong>National Technological University [UTN]</strong> 👨‍💻</h4>
         <h4>Backend programmer at <strong>Accenture</strong> 👨‍💻</h4>
     </div>
-
 </div>
 
 ---
@@ -34,7 +33,7 @@
 <div align="center">
     <ul>
         <li>
-            <h4>🌱 I’m currently learning <b>Python & GCP</b></h4>
+            <h4>🌱 I’m currently learning <b>Python, GCP & Angular</b></h4>
         </li>
         <li>
             <h4>
@@ -76,7 +75,7 @@
             <img src="https://camo.githubusercontent.com/9f609b65162567643c396ef42e9ccc2f755906847714389cbc1dcd707b234ebb/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f325f636f6d707265737365642e7376673f7261773d74727565" alt="Matplotlib" width="40" height="40" /> 
         </a>
         <a href="https://www.djangoproject.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg?raw=true" alt="django" width="40" height="40"/>
         </a> 
         <a href="https://www.java.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -95,7 +94,13 @@
         </a> 
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </a>
+        <a href="https://angular.io/" target="_blank">
+            <img alt="Angularjs" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg?raw=true" width="40px" height="40px" />
         </a> 
+        <a href="https://nodejs.org/es/" target="_blank">
+                <img alt="Nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" width="40px" height="40px" />
+        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         </a> 
@@ -141,12 +146,15 @@
         <a href="https://cloud.google.com/" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg?raw=true" alt="GCP" width="40" height="40"> 
         </a>
+        <a href="https://firebase.google.com/docs?gclsrc=ds&gclsrc=ds">
+                <img alt="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg?raw=true" width="40px" height="40px" />
+        </a>
         <a href="https://mariadb.org/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
         </a> 
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a> 
+        <a href="https://www.mysql.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        </a> 
         <a href="https://www.sqlite.org/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
         </a> 
@@ -272,7 +280,7 @@
                 <a href="https://github.com/CaidevOficial/CSharp_StructureBuilder">
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_StructureBuilder&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_StructureBuilder" height="115em" width="400em" />
                 </a>
-                <!-- UTN Labo II -->
+                <!-- UTN Lab II -->
                 <a href="https://github.com/CaidevOficial/CSharp_UTN_LaboII">
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=CSharp_UTN_LaboII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="CSharp_UTN_LaboII" height="115em" width="400em" />
                 </a>
@@ -367,6 +375,18 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <!-- UTN Lab III -->
+                <a href="https://github.com/caidevOficial/Front_UTN_LaboIII/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_UTN_LaboIII&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_UTN_LaboIII" height="115em" width="400em" />
+                </a>
+                <!-- UTN Lab IV -->
+                <a href="https://github.com/caidevOficial/Front_UTN_LaboIV/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=Front_UTN_LaboIV&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Front_UTN_LaboIV" height="115em" width="400em" />
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
@@ -384,51 +404,54 @@
         </tr>
     </table>
 </details>
-    
 </div>
 
 ---
 
 <table align="center">
-  <theader>
-      <th><h2>Where to find me: 🌎</h2></th>
-    <tr align='center'>
-      <td>
-        <img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />
-      </td>
-    </tr>
-    <th><center>🤴 Facu Falcone - Junior Developer</center></th>
+    <theader>
+        <th>
+            <h2>Where to find me: 🌎</h2>
+        </th>
+        <tr align='center'>
+            <td>
+                <img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />
+            </td>
+        </tr>
+        <th>
+            <center>🤴 Facu Falcone - Junior Developer</center>
+        </th>
     </theader>
     <tbody>
-    <tr align='center'>
-      <td>
-        <a href="https://github.com/caidevOficial/">
-          <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
-        </a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-        <a href="https://www.linkedin.com/in/facundo-falcone/">
-          <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px" />
-        </a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-        <a href="https://cafecito.app/caidevoficial/">
-          <img alt='Invitame un café en cafecito.app' srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' width="125px" height="30px" />
-        </a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-        <a href='https://ko-fi.com/P5P74JBOH' target='_blank'>
-          <img width="125px" height="30px" style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+        <tr align='center'>
+            <td>
+                <a href="https://github.com/caidevOficial/">
+                    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
+                </a>
+            </td>
+        </tr>
+        <tr align='center'>
+            <td>
+                <a href="https://www.linkedin.com/in/facundo-falcone/">
+                    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px" />
+                </a>
+            </td>
+        </tr>
+        <tr align='center'>
+            <td>
+                <a href="https://cafecito.app/caidevoficial/">
+                    <img alt='Invitame un café en cafecito.app' srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' width="125px" height="30px" />
+                </a>
+            </td>
+        </tr>
+        <tr align='center'>
+            <td>
+                <a href='https://ko-fi.com/P5P74JBOH' target='_blank'>
+                    <img width="125px" height="30px" style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ---
