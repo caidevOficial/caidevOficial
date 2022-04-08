@@ -17,9 +17,9 @@
 
 ---
 
-<section class="linkedinFrame">
+<div class="GitSkylineFrame">
     <iframe src="https://skyline.github.com/caidevoficial/2021" height="653" width="504" frameborder="0" allowfullscreen="" title="Github Skyline 2021"></iframe>
-</section>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=12877139)
 
