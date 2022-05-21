@@ -11,7 +11,7 @@
         <h4>Programming Student & Assistant Professor at the
         <br>
         <strong>National Technological University [UTN]</strong> 👨‍💻</h4>
-        <h4>Backend programmer at <strong>Accenture</strong> 👨‍💻</h4>
+        <h4>Data Engineer at <strong>Accenture</strong> 👨‍💻</h4>
     </div>
 </div>
 
