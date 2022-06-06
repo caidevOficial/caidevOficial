@@ -420,6 +420,21 @@
         </tr>
     </table>
 </details>
+
+<details>
+    <summary>:zap: Databases</summary>
+    <table>
+        <th><center>MySQL</center></th>
+        <tr>
+            <td align="center">
+                <!-- Professional database course -->
+                <a href="https://github.com/caidevOficial/SQL_EasyCode/">
+                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=CaidevOficial&repo=SQL_EasyCode&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="SQL_EasyCode" height="115em" width="400em" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</details>
 </div>
 
 ---
