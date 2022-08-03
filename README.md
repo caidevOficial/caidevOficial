@@ -466,7 +466,7 @@
             </td>
         </tr>
         <th>
-            <center>🤴 Facu Falcone - Junior Developer</center>
+            <center>🤴 Facu Falcone - Data Engineer</center>
         </th>
     </theader>
     <tbody>
