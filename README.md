@@ -2,7 +2,7 @@
     <img align="right" height="270em" src="./assets/caidevOficial_Image.png"/><br>
     <div align='left'>
         <h1>Hi there 👋, I'm Facu!</h1>
-        <h3>Pisces♓ | Developer👨‍💻
+        <h3>Pisces♓ | Data Engineer👨‍💻
         <br>
         Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="28"/> | GCP <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg?raw=true" alt="GCP" width="30" height="30"> | Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> | C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
         <br>
