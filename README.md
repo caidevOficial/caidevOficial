@@ -208,14 +208,14 @@
     </tbody>
 </table>
 
-<details close="true">
+<!-- <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&hide=html&layout=compact&theme=highcontrast" />
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
- </details>
+ </details> -->
 
 ---
 
@@ -240,6 +240,12 @@
         <!-- Jokes Card -->
         <td align="center" colspan="2">
             <img align="center" src="https://readme-jokes.vercel.app/api?theme=nord" alt="Jokes_Card" height="150em"/>
+        </td>
+    </tr>
+    <tr>
+        <!-- Graphic -->
+        <td>
+            ![](./profile-3d-contrib/profile-night-rainbow.svg)
         </td>
     </tr>
 </table>
