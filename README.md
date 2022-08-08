@@ -210,8 +210,10 @@
 
 <details close="true">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
     ![](./profile-3d-contrib/profile-night-rainbow.svg)
- </details>
+
+</details>
 
 ---
 
