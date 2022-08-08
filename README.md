@@ -209,11 +209,13 @@
 </table>
 
 <details close="true">
-    <summary><b>:gear: &nbsp;Git statistics</b></summary>
-
-    ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</details>
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidevOficial&hide=html&layout=compact&theme=highcontrast" />
+ 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ </details>
 
 ---
 
