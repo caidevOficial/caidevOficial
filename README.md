@@ -221,13 +221,9 @@
 
 <table align="center">
     <tr>
-        <!-- Mos Used Languages Card -->
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=8&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css,tsql" alt="caidevoficial"  height="150em"/>
-        </td>
-        <!-- Github Stats Card -->
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial"  height="150em"/>
+        <!-- Jokes Card -->
+        <td align="center" colspan="2">
+            <img align="center" src="https://readme-jokes.vercel.app/api?theme=nord" alt="Jokes_Card" height="150em"/>
         </td>
     </tr>
     <tr>
@@ -237,15 +233,12 @@
         </td>
     </tr>
     <tr>
-        <!-- Jokes Card -->
-        <td align="center" colspan="2">
-            <img align="center" src="https://readme-jokes.vercel.app/api?theme=nord" alt="Jokes_Card" height="150em"/>
-        </td>
-    </tr>
-    <tr>
-        <!-- Graphic -->
-        <td>
-            ![](./profile-3d-contrib/profile-night-rainbow.svg)
+        <!-- Mos Used Languages Card -->
+        <td align="center">
+            <img height="150px" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=caidevOficial&layout=compact&theme=chartreuse-dark&langs_count=8&exclude_repo=Java_Lineage2_aCis_From_345&hide=html,css,tsql" alt="caidevoficial"/>
+            <img height="150px" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=caidevOficial&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="caidevoficial"/>
+ 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
         </td>
     </tr>
 </table>
