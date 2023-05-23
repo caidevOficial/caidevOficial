@@ -275,6 +275,18 @@
                 </a>
             </td>
         </tr>
+	    <tr>
+            <td align="center">
+                <!-- Pokemon Console Game -->
+                <a href="https://github.com/CaidevOficial/Python_Console_Pokemon_Game">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaidevOficial&repo=Python_Console_Pokemon_Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Console_Pokemon_Game" height="115em" width="400em" />
+                </a>
+		<!-- PBI Script Maker -->
+                <a href="https://github.com/caidevOficial/Python_PBI_Script_Maker">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaidevOficial&repo=Python_PBI_Script_Maker&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_PBI_Script_Maker" height="115em" width="400em" />
+                </a>
+            </td>
+        </tr>
         <tr>
             <td align="center">
                 <!-- ITBA IEEE Practice 1 -->
