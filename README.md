@@ -253,6 +253,18 @@
         <th colspan='2'><center>Python</center></th>
         <tr>
             <td align='center'>
+                <!-- IEEE to DEC converter -->
+                <a href="https://github.com/caidevOficial/Python_IEEE_Dec_Converter">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaidevOficial&repo=Python_IEEE_Dec_Converter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_IEEE_Dec_Converter" height="150em"/>
+                </a>
+                <!-- University Countdown Timer -->
+                <a href="https://github.com/caidevOficial/Python_University_Countdown_Timer">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaidevOficial&repo=Python_University_Countdown_Timer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_University_Countdown_Timer" height="150em"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align='center'>
                 <!-- Repository Cloner -->
                 <a href="https://github.com/caidevOficial/Python_RepositoryCloner">
                         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaidevOficial&repo=Python_RepositoryCloner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_RepositoryCloner" height="150em"/>
