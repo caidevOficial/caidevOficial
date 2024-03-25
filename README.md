@@ -129,7 +129,7 @@
             <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-eclipse.png?raw=true" alt="Eclipse" width="40" height="40" />
         </a>
         <a href="https://netbeans.apache.org/download/" target="_blank">
-            <img src="https://netbeans.apache.org/images/apache-netbeans.svg?raw=true" alt="Netbeans" width="40" height="40" />
+            <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg?raw=true" alt="Netbeans" width="40" height="40" />
         </a>
         <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg?raw=true" alt="PyCharm" width="40" height="40"/>
