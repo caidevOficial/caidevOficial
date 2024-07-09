@@ -207,7 +207,7 @@
         </tr>
 <tr>
             <td>
-                <a href='https://skyline.github.com/caidevoficial/2022' target='_blank'><img alt='Skyline 2023' width='250px' src='./assets/2023_CO_Skyline.png'></a>
+                <a href='https://skyline.github.com/caidevoficial/2023' target='_blank'><img alt='Skyline 2023' width='250px' src='./assets/2023_CO_Skyline.png'></a>
             </td>
         </tr>
     </tbody>
